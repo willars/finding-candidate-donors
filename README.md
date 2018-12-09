@@ -1,2 +1,2 @@
 # finding-candidate-donors
-supervised learning to categorize individuals by income
+In this project several supervised learning algorithms were employed to accurately model individuals' income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results were chosen and further optimized to best model the data. The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
